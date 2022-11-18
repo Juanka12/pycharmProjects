@@ -1,6 +1,8 @@
 import random
+import datetime
 from enfermedad import Enfermedad
 from paciente import Enfermo
+
 
 class Personal:
     def __init__(self, nombre, identificador):
@@ -8,7 +10,9 @@ class Personal:
         self.identificador = identificador
 
     def Fichar(self):
-        print("El trabajador {} con identificador {} ha fichado.".format(self.nombre, self.identificador))
+        dt = datetime.datetime.now()
+        print("El trabajador {} con identificador {} ha fichado el {}/{}/{} a las {}:{}"
+              .format(self.nombre, self.identificador, dt.day, dt.month, dt.year, dt.hour, dt.minute))
 
 
 class Doctor(Personal):
@@ -17,6 +21,7 @@ class Doctor(Personal):
         self.especialidad = especialidad
 
     def Diagnosticar(self, paciente):
+        # Se genera un numero del 1 al 10 y si es mayor que seis se recoge una enfermedad aleatoria para el paciente
         print("El doctor {} diagnostica al paciente {}.".format(self.nombre, paciente.nombre))
         if random.randint(1, 10) >= 7:
             enfermedad = Enfermedad.GetRandomEnfermedad()

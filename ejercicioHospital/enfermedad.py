@@ -1,6 +1,7 @@
 from enum import Enum
 import random
 
+
 class Enfermedad(Enum):
     Covid = 1
     Bronquitis = 2
