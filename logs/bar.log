@@ -1,0 +1,1 @@
+08:59:08 AM: ERROR [barLogs.py:25] ("Exception - Ocurrió una excepcion: Demasiado Frio , <class 'temperatureException.TooColdTemperatureException'>",)
