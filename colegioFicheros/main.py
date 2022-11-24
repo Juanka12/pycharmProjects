@@ -1,12 +1,11 @@
-import colegioLogs
+from utils import customLogs
 import logging
-from ioHandler import IOHandler
+from utils.ioHandler import IOHandler
 from colegioClases import Colegio, Alumno
-from functools import reduce
 
 
 if __name__ == "__main__":
-    colegioLogs.setupLogging(logging.INFO, "../logs/colegio.log")
+    customLogs.setupLogging(logging.INFO, "../logs/colegio.log")
 
     colegios = []
     with IOHandler('datos.txt', 'r') as archivo:
