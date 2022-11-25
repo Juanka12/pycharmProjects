@@ -6,6 +6,7 @@ from utils.ioHandler import IOHandler
 import utils.customLogs as logs
 import logging
 import random
+from _datetime import datetime
 
 
 def leer_ficheros():
@@ -29,6 +30,20 @@ def leer_ficheros():
             newGranpremio = GranPremio(index+1, lista[0], int(lista[1]), int(lista[2]))
             grandes_premios.append(newGranpremio)
             # accessDB.insertar_grandes_premios(newGranpremio)
+
+def leer_BBDD():
+    query = accessDB.recoger_bbdd("caballos")
+    for line in query:
+        newCaballo = Caballo(int(line[0]), line[1], str(line[2]), int(line[3]), int(line[4]), int(line[5]), int(line[6]))
+        caballos.append(newCaballo)
+    query = accessDB.recoger_bbdd("apostantes")
+    for line in query:
+        newApostante = Apostante(int(line[0]), line[1], int(line[2]))
+        apostantes.append(newApostante)
+    query = accessDB.recoger_bbdd("gran_premio")
+    for line in query:
+        newGranpremio = GranPremio(int(line[0]), line[1], int(line[2]), int(line[3]))
+        grandes_premios.append(newGranpremio)
 
 def realizar_apuestas():
     """Cada apostante selecciona una cantidad a apostar y un caballo, ambos se guardan en una propiedad"""
@@ -97,7 +112,9 @@ if __name__ == "__main__":
     apostantes = []
     grandes_premios = []
 
+    "Para sacar los datos de los ficheros o sacarlos de la base de datos si esta llena"
     leer_ficheros()
+    # leer_BBDD()
 
     for gran_premio in grandes_premios:
         for i in range(gran_premio.num_carreras):

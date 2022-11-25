@@ -74,3 +74,11 @@ class AccessDB:
             logging.debug("Apostante actualizado")
         except Exception as e:
             logs.error("Error", e)
+
+    def recoger_bbdd(self, table):
+        try:
+            self.cursor.execute("SELECT * FROM %s" % str(table))
+            data = self.cursor.fetchall()
+            return data
+        except Exception as e:
+            logs.error("Error", e)

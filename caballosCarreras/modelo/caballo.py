@@ -77,7 +77,7 @@ class Caballo:
         self._dist_recorrida = dist_recorrida
 
     def __str__(self):
-        return self.nombre + " " + self.nacimiento+" "+str(self.id_granpremio)
+        return self.nombre + " " + str(self.nacimiento)+" "+str(self.id_granpremio)
 
     def calcular_avance(self):
         edad = datetime.strptime(self.nacimiento, '%Y-%m-%d').date()
