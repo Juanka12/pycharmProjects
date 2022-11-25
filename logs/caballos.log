@@ -1,0 +1,1351 @@
+10:31:04 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:31:16 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:31:16 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:33:50 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:33:50 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:34:14 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:34:14 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:35:24 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:35:24 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:35:51 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:35:51 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:35:51 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+10:38:54 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+10:38:54 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+10:41:31 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+10:41:31 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+10:41:47 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+10:41:47 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+10:44:25 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:44:25 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+10:44:25 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:44:25 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:44:25 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:44:25 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:44:25 AM: DEBUG [customLogs.py:15] Caballo insertado: 1
+10:44:25 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+10:44:25 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+10:54:31 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:54:31 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+10:54:31 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+10:54:31 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+10:54:31 AM: DEBUG [customLogs.py:15] Apostante insertado: 1
+10:54:31 AM: DEBUG [customLogs.py:15] Apostante insertado: 1
+10:54:31 AM: DEBUG [customLogs.py:15] Apostante insertado: 1
+10:54:31 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+10:54:31 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:00:30 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:00:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:00:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:00:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:00:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:00:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:00:30 AM: DEBUG [customLogs.py:15] Gran Premio insertado: 1
+11:00:30 AM: DEBUG [customLogs.py:15] Gran Premio insertado: 1
+11:00:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:00:30 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:06:09 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:06:09 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:06:09 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:06:09 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:06:09 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:06:09 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:06:09 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:07:18 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 0',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 0',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:07:18 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:07:18 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:10:24 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:10:24 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:10:24 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:10:24 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:15:32 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:15:32 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:15:32 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:15:32 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:16:26 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:16:26 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:16:26 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:16:26 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:16:34 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:16:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:16:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:16:34 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:18:01 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:18:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:18:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:18:15 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:18:15 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:18:15 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:18:34 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:18:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 66 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 14 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 149 por el caballo CABALLO4',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 53 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 49 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 61 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 94 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 7 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 75 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 177 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 180 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 127 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 43 por el caballo CABALLO3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 144 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 167 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 29 por el caballo CABALLO2',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 67 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 80 por el caballo CABALLO1',)
+11:18:34 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 191 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 41 por el caballo CABALLO5',)
+11:18:34 AM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 89 por el caballo CABALLO4',)
+11:18:34 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:38:01 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:38:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:38:01 AM: DEBUG [customLogs.py:15] Caballo insertado
+11:38:01 AM: DEBUG [customLogs.py:15] Caballo insertado
+11:38:01 AM: DEBUG [customLogs.py:15] Caballo insertado
+11:38:01 AM: DEBUG [customLogs.py:15] Caballo insertado
+11:38:01 AM: DEBUG [customLogs.py:15] Caballo insertado
+11:38:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:38:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:38:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:38:01 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:38:01 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:38:01 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:38:01 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:54:10 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:54:10 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:54:10 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:55:04 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:55:04 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:55:04 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:55:04 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:55:44 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:55:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:55:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:55:44 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:57:30 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:57:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:57:30 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:57:30 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:57:30 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:57:30 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:57:30 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:57:44 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:57:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:57:44 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:57:44 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+11:59:11 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+11:59:11 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+11:59:11 AM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+11:59:11 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:00:19 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:00:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:00:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:00:19 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:00:59 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:00:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:00:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:00:59 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:09:22 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:09:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:09:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:09:22 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:10:44 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:10:44 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:10:44 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:10:44 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:12:00 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:12:00 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:12:00 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:12:17 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:12:17 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:12:17 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:13:14 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:13:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:13:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:13:14 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:13:36 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:13:36 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:13:36 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:14:39 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:14:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:14:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:14:39 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:24:14 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:24:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:24:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:24:14 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:24:48 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:24:48 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:24:48 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:24:48 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:25:09 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:25:09 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:25:09 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:25:09 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:26:14 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:26:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:26:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:27:25 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:27:25 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:27:25 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:27:25 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:28:06 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:28:06 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:06 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:06 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:06 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:28:42 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:28:42 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:42 PM: DEBUG [customLogs.py:15] 0
+12:28:42 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:28:58 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:28:58 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:58 PM: DEBUG [customLogs.py:15] 511
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:58 PM: DEBUG [customLogs.py:15] 611
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:58 PM: DEBUG [customLogs.py:15] 576
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:28:58 PM: DEBUG [customLogs.py:15] 592
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:58 PM: DEBUG [customLogs.py:15] 557
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:28:58 PM: DEBUG [customLogs.py:15] 511
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:28:58 PM: DEBUG [customLogs.py:15] 519
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:58 PM: DEBUG [customLogs.py:15] 917
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:58 PM: DEBUG [customLogs.py:15] 864
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:58 PM: DEBUG [customLogs.py:15] 864
+12:28:58 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:28:58 PM: DEBUG [customLogs.py:15] 848
+12:28:58 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:28:58 PM: DEBUG [customLogs.py:15] 901
+12:28:58 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:31:46 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:31:46 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:31:46 PM: DEBUG [customLogs.py:15] 530
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:31:46 PM: DEBUG [customLogs.py:15] 503
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:31:46 PM: DEBUG [customLogs.py:15] 610
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:31:46 PM: DEBUG [customLogs.py:15] 613
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:31:46 PM: DEBUG [customLogs.py:15] 571
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:31:46 PM: DEBUG [customLogs.py:15] 509
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: DEBUG [customLogs.py:15] 926
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:31:46 PM: DEBUG [customLogs.py:15] 938
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: DEBUG [customLogs.py:15] 876
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:31:46 PM: DEBUG [customLogs.py:15] 809
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: DEBUG [customLogs.py:15] 817
+12:31:46 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:31:46 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:32:51 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:32:51 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:32:51 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:33:04 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:33:04 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:33:04 PM: DEBUG [customLogs.py:15] 564
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:33:04 PM: DEBUG [customLogs.py:15] 536
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:33:04 PM: DEBUG [customLogs.py:15] 521
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:33:04 PM: DEBUG [customLogs.py:15] 517
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:33:04 PM: DEBUG [customLogs.py:15] 505
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:33:04 PM: DEBUG [customLogs.py:15] 593
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:33:04 PM: DEBUG [customLogs.py:15] 623
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:33:04 PM: DEBUG [customLogs.py:15] 522
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:33:04 PM: DEBUG [customLogs.py:15] 816
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:33:04 PM: DEBUG [customLogs.py:15] 851
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:33:04 PM: DEBUG [customLogs.py:15] 849
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:33:04 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:33:04 PM: DEBUG [customLogs.py:15] 900
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:33:04 PM: DEBUG [customLogs.py:15] 910
+12:33:04 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:33:04 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:38:59 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:38:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 152 por el caballo CABALLO1',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 177 por el caballo CABALLO5',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 102 por el caballo CABALLO5',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 73 por el caballo CABALLO5',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 48 por el caballo CABALLO3',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 81 por el caballo CABALLO5',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 13 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 80 por el caballo CABALLO2',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 107 por el caballo CABALLO4',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 85 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 69 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 44 por el caballo CABALLO3',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 192 por el caballo CABALLO3',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 136 por el caballo CABALLO2',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 19 por el caballo CABALLO5',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 118 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 81 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 86 por el caballo CABALLO4',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:38:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 180 por el caballo CABALLO2',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 160 por el caballo CABALLO4',)
+12:38:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 105 por el caballo CABALLO5',)
+12:38:59 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:38:59 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:39:39 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:39:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 83 por el caballo CABALLO4',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 153 por el caballo CABALLO2',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 105 por el caballo CABALLO4',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 57 por el caballo CABALLO4',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 184 por el caballo CABALLO2',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 70 por el caballo CABALLO4',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 15 por el caballo CABALLO1',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 91 por el caballo CABALLO5',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 194 por el caballo CABALLO1',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 93 por el caballo CABALLO5',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 31 por el caballo CABALLO2',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 30 por el caballo CABALLO2',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 183 por el caballo CABALLO4',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 125 por el caballo CABALLO5',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 114 por el caballo CABALLO1',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 97 por el caballo CABALLO1',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 14 por el caballo CABALLO3',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 197 por el caballo CABALLO2',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:39:39 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 44 por el caballo CABALLO1',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 5 por el caballo CABALLO3',)
+12:39:39 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 120 por el caballo CABALLO1',)
+12:39:39 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:39:39 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:39:59 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:39:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 59 por el caballo CABALLO2',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 110 por el caballo CABALLO1',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 195 por el caballo CABALLO3',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 111 por el caballo CABALLO3',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 10 por el caballo CABALLO2',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 51 por el caballo CABALLO2',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 1 por el caballo CABALLO1',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 187 por el caballo CABALLO3',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 198 por el caballo CABALLO2',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 154 por el caballo CABALLO2',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 161 por el caballo CABALLO1',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 164 por el caballo CABALLO1',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 179 por el caballo CABALLO4',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 85 por el caballo CABALLO5',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 99 por el caballo CABALLO5',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 197 por el caballo CABALLO5',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 146 por el caballo CABALLO4',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 134 por el caballo CABALLO5',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:39:59 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 24 por el caballo CABALLO5',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 152 por el caballo CABALLO4',)
+12:39:59 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 147 por el caballo CABALLO5',)
+12:39:59 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:39:59 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:42:34 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:42:34 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 124 por el caballo CABALLO3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 135 por el caballo CABALLO2',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 174 por el caballo CABALLO1',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 139 por el caballo CABALLO3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 24 por el caballo CABALLO1',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 66 por el caballo CABALLO1',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 111 por el caballo CABALLO3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 198 por el caballo CABALLO1',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 81 por el caballo CABALLO2',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 120 por el caballo CABALLO3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 191 por el caballo CABALLO1',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 6 por el caballo CABALLO3',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 68 por el caballo CABALLO4',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 153 por el caballo CABALLO5',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 173 por el caballo CABALLO4',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 196 por el caballo CABALLO4',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 155 por el caballo CABALLO5',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 66 por el caballo CABALLO4',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:42:34 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 29 por el caballo CABALLO5',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 44 por el caballo CABALLO4',)
+12:42:34 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 114 por el caballo CABALLO4',)
+12:42:34 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:42:34 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:43:14 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:43:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 200 por el caballo CABALLO3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 186 por el caballo CABALLO1',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 112 por el caballo CABALLO2',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 146 por el caballo CABALLO2',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 70 por el caballo CABALLO2',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 13 por el caballo CABALLO1',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 156 por el caballo CABALLO3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 141 por el caballo CABALLO3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 117 por el caballo CABALLO1',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 145 por el caballo CABALLO1',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 187 por el caballo CABALLO3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 66 por el caballo CABALLO3',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 135 por el caballo CABALLO4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 19 por el caballo CABALLO4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 170 por el caballo CABALLO5',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 176 por el caballo CABALLO4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 172 por el caballo CABALLO4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 152 por el caballo CABALLO4',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 159 por el caballo CABALLO4',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 8 por el caballo CABALLO5',)
+12:43:14 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 107 por el caballo CABALLO5',)
+12:43:14 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:43:14 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:43:14 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:44:21 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:44:21 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:44:21 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:44:21 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 30 por el caballo CABALLO3',)
+12:44:21 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 81 por el caballo CABALLO2',)
+12:44:21 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 155 por el caballo CABALLO1',)
+12:44:21 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:46:24 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:46:24 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 101 por el caballo CABALLO3',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 172 por el caballo CABALLO1',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 64 por el caballo CABALLO3',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 53 por el caballo CABALLO2',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 6 por el caballo CABALLO2',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 45 por el caballo CABALLO1',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 118 por el caballo CABALLO1',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 135 por el caballo CABALLO1',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 45 por el caballo CABALLO1',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 4 por el caballo CABALLO3',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 61 por el caballo CABALLO2',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 158 por el caballo CABALLO2',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 114 por el caballo CABALLO5',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 58 por el caballo CABALLO5',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 17 por el caballo CABALLO4',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 53 por el caballo CABALLO5',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 91 por el caballo CABALLO5',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 186 por el caballo CABALLO5',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:46:24 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 199 por el caballo CABALLO5',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 17 por el caballo CABALLO4',)
+12:46:24 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 144 por el caballo CABALLO4',)
+12:46:24 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado
+12:46:24 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado
+12:46:24 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+12:49:19 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+12:49:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 86 por el caballo CABALLO2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 151 por el caballo CABALLO1',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 165 por el caballo CABALLO3',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 688
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 79 por el caballo CABALLO2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 158 por el caballo CABALLO2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 41 por el caballo CABALLO3',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO1 2020-02-18 1
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 157 por el caballo CABALLO2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 102 por el caballo CABALLO2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 34 por el caballo CABALLO2',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 1256
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado 816
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 272
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 5 por el caballo CABALLO3',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 124 por el caballo CABALLO3',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 10 por el caballo CABALLO2',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 80
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 95 por el caballo CABALLO5',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 165 por el caballo CABALLO4',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 2 por el caballo CABALLO5',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 475
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 10
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 136 por el caballo CABALLO5',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 23 por el caballo CABALLO4',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 177 por el caballo CABALLO4',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 680
+12:49:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 187 por el caballo CABALLO5',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 155 por el caballo CABALLO4',)
+12:49:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 93 por el caballo CABALLO5',)
+12:49:19 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 935
+12:49:19 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 465
+12:49:19 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+01:07:05 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+01:07:05 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:07:05 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:07:05 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO3',)
+01:07:05 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO2',)
+01:07:05 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO1',)
+01:07:05 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:08:38 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+01:08:38 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO2',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO1',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO2',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO3 2006-11-10 1
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado -5
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado -5
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado -5
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO2',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO1',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO1',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO3',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO5',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO5',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO5',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO4',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO4',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO4',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado -1 por el caballo CABALLO5',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado -1 por el caballo CABALLO4',)
+01:08:38 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado -1 por el caballo CABALLO4',)
+01:08:38 PM: DEBUG [customLogs.py:15] CABALLO4 2015-07-26 2
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado -8
+01:08:38 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:08:38 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+01:10:22 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+01:10:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 86 por el caballo CABALLO1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 65 por el caballo CABALLO3',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 98 por el caballo CABALLO3',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 169 por el caballo CABALLO1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 162 por el caballo CABALLO1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 12 por el caballo CABALLO1',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 69 por el caballo CABALLO1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 97 por el caballo CABALLO1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 13 por el caballo CABALLO2',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 104
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 49 por el caballo CABALLO2',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 27 por el caballo CABALLO3',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 158 por el caballo CABALLO3',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO2 2022-06-26 1
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 392
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 118 por el caballo CABALLO4',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 29 por el caballo CABALLO4',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 33 por el caballo CABALLO5',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 165
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 135 por el caballo CABALLO4',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 96 por el caballo CABALLO5',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 92 por el caballo CABALLO4',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE2 ha ganado 480
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 166 por el caballo CABALLO5',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 21 por el caballo CABALLO4',)
+01:10:22 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 149 por el caballo CABALLO5',)
+01:10:22 PM: DEBUG [customLogs.py:15] CABALLO5 2006-02-18 2
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE1 ha ganado 830
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [customLogs.py:15] El apostante APOSTANTE3 ha ganado 745
+01:10:22 PM: DEBUG [access_db.py:75] Apostante actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: DEBUG [access_db.py:67] Caballo actualizado
+01:10:22 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+01:15:53 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+01:15:53 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:15:53 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 189 por el caballo CABALLO3',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 38 por el caballo CABALLO2',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 198 por el caballo CABALLO2',)
+01:15:53 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 124 por el caballo CABALLO3',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 183 por el caballo CABALLO2',)
+01:15:53 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 72 por el caballo CABALLO3',)
+01:15:54 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 177 por el caballo CABALLO2',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 38 por el caballo CABALLO1',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 92 por el caballo CABALLO3',)
+01:15:54 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 119 por el caballo CABALLO1',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 35 por el caballo CABALLO2',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 117 por el caballo CABALLO2',)
+01:15:54 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 113 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 63 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 94 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 58 por el caballo CABALLO5',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 88 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 182 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 180 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 167 por el caballo CABALLO5',)
+01:15:54 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 3 por el caballo CABALLO4',)
+01:15:54 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+01:17:15 PM: INFO [customLogs.py:19] ('Conexion abierta',)
+01:17:15 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 184 por el caballo CABALLO1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 177 por el caballo CABALLO3',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 27 por el caballo CABALLO3',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO2 2022-06-26 1 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 110 por el caballo CABALLO2',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 57 por el caballo CABALLO1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 177 por el caballo CABALLO1',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO1 2020-02-18 1 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 171, ahora tiene un saldo de 2937',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE3 ha ganado 531, ahora tiene un saldo de 1327',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 20 por el caballo CABALLO2',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 7 por el caballo CABALLO3',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 30 por el caballo CABALLO2',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO1 2020-02-18 1 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 55 por el caballo CABALLO1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 136 por el caballo CABALLO1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 39 por el caballo CABALLO2',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO1 2020-02-18 1 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 165, ahora tiene un saldo de 4796',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 408, ahora tiene un saldo de 3202',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 182 por el caballo CABALLO5',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 149 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 108 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 910, ahora tiene un saldo de 5524',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 25 por el caballo CABALLO5',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 39 por el caballo CABALLO5',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 76 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 125, ahora tiene un saldo de 5624',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 195, ahora tiene un saldo de 3209',)
+01:17:15 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 148 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 64 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 119 por el caballo CABALLO4',)
+01:17:15 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:17:15 PM: INFO [customLogs.py:19] ('Conexion cerrada',)
+01:32:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/caballos.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/caballos.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/apostantes.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/apostantes.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Abriendo archivo ficheros/grandes_premios.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Cerrando el archivo ficheros/grandes_premios.txt',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 1',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 81 por el caballo CABALLO2',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 107 por el caballo CABALLO2',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 46 por el caballo CABALLO2',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO2 2022-06-26 1 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 648, ahora tiene un saldo de 5567',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 856, ahora tiene un saldo de 3749',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE3 ha ganado 368, ahora tiene un saldo de 1322',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 2',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 191 por el caballo CABALLO1',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 33 por el caballo CABALLO3',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 197 por el caballo CABALLO1',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO1 2020-02-18 1 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 573, ahora tiene un saldo de 5949',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE3 ha ganado 591, ahora tiene un saldo de 1716',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 3',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 50 por el caballo CABALLO1',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 96 por el caballo CABALLO2',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 29 por el caballo CABALLO3',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO1 2020-02-18 1 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 150, ahora tiene un saldo de 6049',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 1, con distancia 500, carrera numero 4',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 97 por el caballo CABALLO3',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 42 por el caballo CABALLO3',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 143 por el caballo CABALLO3',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO2 2022-06-26 1 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 1',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 88 por el caballo CABALLO4',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 154 por el caballo CABALLO5',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 86 por el caballo CABALLO4',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 770, ahora tiene un saldo de 4194',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 2',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 167 por el caballo CABALLO5',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 53 por el caballo CABALLO4',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 51 por el caballo CABALLO4',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 835, ahora tiene un saldo de 6532',)
+01:32:19 PM: INFO [customLogs.py:19] ('Gran premio: GRAN PREMIO 2, con distancia 800, carrera numero 3',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE1 ha apostado 19 por el caballo CABALLO5',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE2 ha apostado 125 por el caballo CABALLO5',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante: APOSTANTE3 ha apostado 109 por el caballo CABALLO4',)
+01:32:19 PM: INFO [customLogs.py:19] ('CABALLO5 2006-02-18 2 ha ganado',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE1 ha ganado 95, ahora tiene un saldo de 6608',)
+01:32:19 PM: INFO [customLogs.py:19] ('El apostante APOSTANTE2 ha ganado 625, ahora tiene un saldo de 4641',)

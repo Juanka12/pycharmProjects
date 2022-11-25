@@ -102,3 +102,21 @@
 01:51:57 PM: DEBUG [customLogs.py:15] Registros Actualizados: 1
 01:52:31 PM: DEBUG [customLogs.py:15] Registros Actualizados: 0
 01:53:00 PM: DEBUG [customLogs.py:15] Registros Actualizados: 1
+10:18:07 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:18:07 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+10:18:48 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:18:48 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+10:19:30 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:19:30 AM: INFO [customLogs.py:19] ('Conexion cerrada',)
+10:21:53 AM: INFO [customLogs.py:19] ('Fin',)
+10:22:44 AM: INFO [customLogs.py:19] ('Fin',)
+10:24:18 AM: INFO [customLogs.py:19] ('Fin',)
+10:25:34 AM: INFO [customLogs.py:19] ('Fin',)
+10:26:14 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:27:20 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:27:20 AM: ERROR [customLogs.py:27] ('Error', TypeError('__str__ returned non-string (type tuple)'))
+10:27:37 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:28:17 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:29:50 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:30:19 AM: INFO [customLogs.py:19] ('Conexion abierta',)
+10:30:43 AM: INFO [customLogs.py:19] ('Conexion abierta',)

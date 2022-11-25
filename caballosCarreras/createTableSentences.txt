@@ -1,0 +1,24 @@
+CREATE TABLE apostantes (
+id int AUTO_INCREMENT,
+nombre varchar(30),
+saldo int,
+PRIMARY KEY (id))
+
+
+CREATE TABLE gran_premio (
+id int AUTO_INCREMENT,
+nombre varchar(30),
+distancia int,
+num_carreras int,
+PRIMARY KEY (id))
+
+
+CREATE TABLE caballos (
+id int AUTO_INCREMENT,
+nombre varchar(30),
+fecha_nacimiento date,
+velocidad int,
+experiencia int,
+valor_apuesta int,
+id_granpremio int,
+PRIMARY KEY (id))
