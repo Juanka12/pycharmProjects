@@ -21,4 +21,5 @@ velocidad int,
 experiencia int,
 valor_apuesta int,
 id_granpremio int,
-PRIMARY KEY (id))
+PRIMARY KEY (id),
+FOREIGN KEY (id_granpremio) REFERENCES gran_premio(id))

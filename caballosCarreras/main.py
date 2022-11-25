@@ -8,6 +8,28 @@ import logging
 import random
 
 
+def leer_ficheros():
+    with IOHandler('ficheros/caballos.txt', 'r') as archivo:
+        for index, line in enumerate(archivo):
+            lista = line.split("|")
+            newCaballo = Caballo(index+1, lista[0], lista[1], int(lista[2]), int(lista[3]), int(lista[4]), int(lista[5]))
+            caballos.append(newCaballo)
+            # accessDB.insertar_caballos(newCaballo)
+
+    with IOHandler('ficheros/apostantes.txt', 'r') as archivo:
+        for index, line in enumerate(archivo):
+            lista = line.split("|")
+            newApostante = Apostante(index+1, lista[0], int(lista[1]))
+            apostantes.append(newApostante)
+            # accessDB.insertar_apostantes(newApostante)
+
+    with IOHandler('ficheros/grandes_premios.txt', 'r') as archivo:
+        for index, line in enumerate(archivo):
+            lista = line.split("|")
+            newGranpremio = GranPremio(index+1, lista[0], int(lista[1]), int(lista[2]))
+            grandes_premios.append(newGranpremio)
+            # accessDB.insertar_grandes_premios(newGranpremio)
+
 def realizar_apuestas():
     """Cada apostante selecciona una cantidad a apostar y un caballo, ambos se guardan en una propiedad"""
     for apostante in apostantes:
@@ -75,26 +97,7 @@ if __name__ == "__main__":
     apostantes = []
     grandes_premios = []
 
-    with IOHandler('ficheros/caballos.txt', 'r') as archivo:
-        for index, line in enumerate(archivo):
-            lista = line.split("|")
-            newCaballo = Caballo(index+1, lista[0], lista[1], int(lista[2]), int(lista[3]), int(lista[4]), int(lista[5]))
-            caballos.append(newCaballo)
-            # accessDB.insertar_caballos(newCaballo)
-
-    with IOHandler('ficheros/apostantes.txt', 'r') as archivo:
-        for index, line in enumerate(archivo):
-            lista = line.split("|")
-            newApostante = Apostante(index+1, lista[0], int(lista[1]))
-            apostantes.append(newApostante)
-            # accessDB.insertar_apostantes(newApostante)
-
-    with IOHandler('ficheros/grandes_premios.txt', 'r') as archivo:
-        for index, line in enumerate(archivo):
-            lista = line.split("|")
-            newGranpremio = GranPremio(index+1, lista[0], int(lista[1]), int(lista[2]))
-            grandes_premios.append(newGranpremio)
-            # accessDB.insertar_grandes_premios(newGranpremio)
+    leer_ficheros()
 
     for gran_premio in grandes_premios:
         for i in range(gran_premio.num_carreras):
